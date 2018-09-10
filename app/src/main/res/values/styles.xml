@@ -1,0 +1,22 @@
+<resources>
+
+	<!-- Base application theme. -->
+	<style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+		<!-- Customize your theme here. -->
+	</style>
+
+	<style name="TextAppear.Theme.Font_Level1_Size_F3" parent="android:TextAppearance.Theme">
+		<item name="android:textSize">@dimen/font_f3</item>
+		<item name="android:textColor">@color/font_level_1</item>
+	</style>
+	<style name="TextAppear.Theme.Font_Level1_Size_F4" parent="android:TextAppearance.Theme">
+		<item name="android:textSize">@dimen/font_f3</item>
+		<item name="android:textColor">@color/font_level_1</item>
+	</style>
+
+	<style name="TextAppear.Theme.Font_Level1_Size_F2" parent="android:TextAppearance.Theme">
+		<item name="android:textSize">@dimen/font_f2</item>
+		<item name="android:textColor">@color/font_level_1</item>
+	</style>
+
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+	<color name="mainColor">#CA403E</color>
+
+    <color name="main_color_red">#CA403E</color>
+	<color name="main_color_red_transparent">#7FCA403E</color>
+	<color name="main_color_blue">#1982D3</color>
+	<color name="main_color_blue_transparent">#7F1982D3</color>
+	<color name="main_color_orangeYellow">#FF7B41</color>
+	<color name="main_color_orangeYellow_transparent">#7FFF7B41</color>
+	<color name="main_color_orangeRed">#F6574F</color>
+	<color name="main_color_orangeRed_transparent">#7FF6574F</color>
+	<color name="main_color_gray">#4D5168</color>
+	<color name="main_color_gray_transparent">#7F4D5168</color>
+
+	<color name="white">#ffffff</color>
+    <color name="c_white">#ffffff</color>
+    <color name="blue">#88b7f2</color>
+
+    <!--  -->
+    <color name="font_level_1">#333333</color>
+    <color name="font_level_2">#666666</color>
+    <color name="font_level_3">#888888</color>
+    <color name="line_color">#eeeeee</color>
+    <color name="background_color">#f7f7f7</color>
+    <color name="border_color">#f1f1f1</color>
+    <color name="font_hint">#cccccc</color>
+    <color name="c_ff3b3b">#ff3b3b</color>
+    <color name="c_ffb7b4">#ffb7b4</color>
+    <color name="c_ff8e89">#ff8e89</color>
+    <color name="c_d">#dddddd</color>
+    <color name="diver_line">#11000000</color>
+    <color name="c_half_black">#80000000</color>
+
+    <color name="btn_normal">#fe5850</color>
+    <color name="btn_press">#ff3b3b</color>
+    <color name="btn_cannot">#dddddd</color>
+
+    <color name="club_main">#E1B96C</color>
+	<color name="mine_phone">#FFAFAE</color>
+	<color name="str_important">#FA0000</color>
+	<color name="btn_change_card">#007CFA</color>
+	<color name="content_des">#AAAAAA</color>
+</resources>

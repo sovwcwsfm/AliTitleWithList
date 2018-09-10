@@ -1,0 +1,42 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- 导航栏标题 -->
+    <dimen name="font_f1">17sp</dimen>
+	<dimen name="font_16">16sp</dimen>
+    <!-- 按钮或者标题栏可点击的文字（需要加粗） -->
+    <dimen name="font_f2">15sp</dimen>
+    <!-- 较重要的文字标题 -->
+    <dimen name="font_f3">14sp</dimen>
+    <!-- 正文文字 -->
+    <dimen name="font_f4">13sp</dimen>
+    <!-- 辅助文字 -->
+    <dimen name="font_f5">12sp</dimen>
+    <!-- tab栏文字 -->
+    <dimen name="font_f6">11sp</dimen>
+
+    <!-- 特殊 -->
+    <dimen name="font_36">36sp</dimen>
+    <dimen name="font_30">30sp</dimen>
+    <dimen name="font_25">25sp</dimen>
+    <dimen name="font_20">20sp</dimen>
+
+    <dimen name="fragment_anim_width">480dp</dimen>
+    <dimen name="fragment_anim_width_a">-480dp</dimen>
+
+    <!--登陆注册-->
+    <dimen name="layout_top1_height">60dip</dimen>
+
+    <!--头部左右边距-->
+    <dimen name="top_margin">8dip</dimen>
+    <dimen name="tv_drawable_padding">10dip</dimen>
+    <dimen name="tv_top_margin">79dip</dimen>
+    <dimen name="matgin_parent_left_right">40dip</dimen>
+
+    <dimen name="so_big">34sp</dimen>
+
+
+
+</resources>
